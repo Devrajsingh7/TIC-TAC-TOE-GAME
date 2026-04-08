@@ -44,16 +44,36 @@ body{
     
     
 }
-.reset-btn{
+#reset-btn{
     background-color: #f2efe9;
     border: none;
     height: 7vmin;
     border-radius: 7px;
-    padding: 5px;
+    padding: 7px;
     color: #252627;
     font-size: 1rem;
     font-weight: 700;
     box-shadow: 5px 5px 4px rgba(0,0,0,.2);
 
 }
+#msg {
+    font-size: 5vmin;
+    color: #252627;
+    font-weight:900;
+}
 
+#new-btn{
+    background-color: #f2efe9;
+    border: none;
+    height: 7vmin;
+    border-radius: 7px;
+    padding: 7px;
+    color: #252627;
+    font-size: 1rem;
+    font-weight: 700;
+    box-shadow: 5px 5px 4px rgba(0,0,0,.2);
+
+}
+.hide{
+    display: none;
+}
